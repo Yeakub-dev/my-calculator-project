@@ -1,0 +1,6 @@
+1. git & GitHub
+
+2. html, 
+3. css
+4. react js
+5. tailwincss
